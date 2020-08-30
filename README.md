@@ -3,7 +3,7 @@ Need to create an Enterprise Integration Patterns (EIP)? I did. Not happy with a
 
 Enterprise Integration Patterns are excellent for diagramming message based systems, especially Service Oriented Architecture (SOA) and System of Systems (SoS). The icons fully replicate the nomenclature created by Gregor Hohpe and Bobby Woolf in their extremely excellent book "Enterprise Integration Patterns - Designing, Building, and Deploying, Messaging Solutions". If you are building message based systems and do not own this book, what are you thinking? Get it. Now!!! This book is to message based systems, what Gamma et als Design Patterns book is to Object Oriented Design. 
 
-I've yet to find a presentation tool which deals with SVG. The presentation tools that do natively work with SVG have many issues. Most other presentation tools covert the SVG to a vendor specific format which negates the benefit of SVG. To help compensate I provide icon sizes of 100%, 80%, 50%, 40%, 20%, and 10%. I typically use 40% and then scale the completed diagram down to fit the page.
+I've yet to find a presentation tool which deals with SVG. The presentation tools that do natively work with SVG have many issues. Most other presentation tools convert the SVG to a vendor specific format which negates the benefit of SVG. To help compensate I provide icon sizes of 100%, 80%, 50%, 40%, 20%, and 10%. I typically use 40% and then scale the completed diagram down to fit the page.
 
 Some tools cannot handle SVG at all. For those I've provided Portable Network Graphics (PNG) icons as well.
 
