@@ -1,5 +1,5 @@
 # EIP
-Enterprise Integration Patterns SVG and PNG files
+Enterprise Integration Patterns icons SVG and PNG files
 
 Enable creation of Enterprise Integration Pattern diagrams per the book Enterprise Integration Patterns by Gregor Hohpe. If you haven't read the book, you should. 
 
